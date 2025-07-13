@@ -42,3 +42,15 @@ python honeypot.py
 git clone https://github.com/famosot/HoneyPot
 pip install pyqt5
 python honeypot.py
+```
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+# Support US
+
+You can support us with a ⭐ star or via crypto donations.
+
+TRX: 
+TKWjwJkiLzmKvsox3DHy93SEpimUKpvWqk
+
+BTC:
+bc1qsc36242kejhynevhny025ps3fjnjz4tz505ksa
